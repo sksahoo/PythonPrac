@@ -1,0 +1,2 @@
+# PythonPrac
+short python practice 
